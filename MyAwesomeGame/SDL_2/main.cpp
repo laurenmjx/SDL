@@ -1,0 +1,11 @@
+
+#include "SDL/include/SDL.h"
+#pragma comment( lib, "SDL/libx86/SDL2.lib" )
+#pragma comment( lib, "SDL/libx86/SDL2main.lib" )
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	return 0;
+
+}
